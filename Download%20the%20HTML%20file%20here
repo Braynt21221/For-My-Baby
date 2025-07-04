@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Happy 8th Monthsary, Barbie 💖</title>
+  <style>
+    body {
+      background-color: #ffe6f0;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      color: #cc0066;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #ff3399;
+      margin-bottom: 10px;
+    }
+    .letter {
+      background-color: #fff0f5;
+      border: 2px dashed #ff99cc;
+      border-radius: 20px;
+      padding: 25px;
+      margin: 20px auto;
+      max-width: 700px;
+      box-shadow: 0 0 15px rgba(255, 105, 180, 0.2);
+    }
+    img {
+      width: 150px;
+      border-radius: 15px;
+      margin: 10px;
+    }
+    footer {
+      margin-top: 30px;
+      font-size: 14px;
+      color: #cc6699;
+    }
+  </style>
+</head>
+<body>
+  <h1>💗 Happy 8th Monthsary, Barbie 💗</h1>
+  <img src="https://media.tenor.com/eLckASx3vpkAAAAi/hello-kitty.gif" alt="Hello Kitty Gif"/>
+
+  <div class="letter">
+    <p>To my baby Barbie,</p>
+    <p>Happy 8th Monthsary, love.</p>
+    <p>I know we’re far apart, but I hope you never feel like my love is far away. Even from a distance, I’ll always try my best to make you feel it—in every message, every call, and every “good night” and “good morning.” Because no matter the distance, my heart is always with you.</p>
+    <p>Every month with you teaches me something new—about love, about patience, and especially about <strong>you</strong>. I’m still learning how to handle your moods, your silence, your little habits—but I love doing it, because it means I’m getting to know you deeper. I don’t see those things as flaws—they’re part of the beautiful, real you. And I want to understand them, not change them.</p>
+    <p>You’re so pretty, Barbie. Not just on the outside, but in your heart, in your laugh, in your soft voice when you’re sleepy, in the way you care. I’m so proud to call you mine. I want the whole world to know that I love you. I’ll never be ashamed to show it. In fact, loving you is one of the best things I’ve ever done.</p>
+    <p>Thank you for staying with me all these months. For trusting me. For loving me back. I may not be perfect, but I’ll never stop trying to be the man you deserve. You’re my peace, my baby, my best friend. I’ll always choose you—today, tomorrow, and every month after this.</p>
+    <p>I love you so much, baby. Happy 8th monthsary. 🫶🏻</p>
+    <p><strong>Yours forever,<br>Brian 🖤</strong></p>
+  </div>
+
+  <footer>
+    Website made with love for Barbie 💞
+  </footer>
+</body>
+</html>
